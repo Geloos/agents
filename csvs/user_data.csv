@@ -1,0 +1,53 @@
+id,username,password,address,city,orders,favorites,balance
+0,michaelhutchinson,E7tMV&3nE%1,1181 Hanson Grove Suite 408,Dennisbury,[],"[45, 52, 23, 31, 28]",25.45
+1,ccross,%q9wCw&AA6Fl,3460 Sharon Trafficway Suite 566,Port Jeffrey,[],"[22, 87, 34, 32, 99]",3.47
+2,austinscott,Bi1I@RzP97u_Lk,7511 Joshua Street Apt. 283,East Danielberg,[],"[90, 78, 57, 86, 52]",59.17
+3,donaldsmith,4H&U1HDvC+t&aYMY6,8285 Brian Extensions,East Jose,[],"[78, 86, 74, 28, 47]",21.4
+4,sarellano,iA*2Al3y*vh9!!,3520 Adam Islands Apt. 782,North Tammy,[],"[82, 45, 55, 93, 54]",52.41
+5,ghunter,Wr1%1Mp_Z,60999 Kelsey Greens Apt. 705,Jenniferview,[],"[94, 5, 99, 3, 20]",37.86
+6,tholland,&T5es0#YbJO,19428 Walters Radial Suite 159,Port Alan,[],"[45, 27, 99, 88, 98]",57.38
+7,erinhudson,8n%yPpf+d_6+dRu@,117 Gabriella Ridges Suite 990,Smithside,[],"[12, 63, 10, 9, 86]",26.01
+8,sglass,$U8PoQtR,63847 Tracy Ways Apt. 554,East Danielberg,[],"[27, 25, 35, 3, 63]",50.33
+9,jordan78,gat8V(FVbQ907q,52648 Sanders Pass Suite 774,Jamiefurt,[],"[99, 65, 34, 42, 39]",67.54
+10,timothy24,r74xAyIu*^0R,01728 Allison Cliffs Apt. 474,South Albertshire,[],"[86, 54, 27, 7, 73]",37.47
+11,vpeters,5G6nBwvc$gunz,25473 Jacobs Route,North Mike,[],"[94, 50, 93, 3, 37]",30.41
+12,davisrobin,#98uxQHs1*O,541 Buckley River,West Andres,[],"[79, 32, 41, 47, 92]",2.53
+13,megan00,N@EvrRL$(52N,739 Miller Way Apt. 494,Lake Williemouth,[],"[12, 43, 85, 66, 83]",53.03
+14,vbaker,7!ac4QTGd90lZivl!,87177 Kline Coves,Banksport,[],"[68, 20, 96, 64, 26]",52.4
+15,jessica35,4HCRy5bk_pNs,8364 Johnny Court,Port Jennyville,[],"[80, 40, 19, 92, 47]",50.34
+16,william60,_qPc&GKj&9UD,11606 Diaz Stravenue Apt. 180,New Noahborough,[],"[52, 89, 55, 60, 11]",76.72
+17,karen45,%_H7oJaNA%nZZr,198 Farmer Port Apt. 791,Cochranton,[],"[8, 47, 61, 48, 98]",63.07
+18,troy50,N!N1mUoi,1190 Jeremy Alley,Lake Valerie,[],"[70, 67, 18, 88, 49]",80.2
+19,staceymcmahon,Od!2W3yvJ,8764 Randall Flats Apt. 865,Jenniferhaven,[],"[86, 54, 6, 58, 82]",49.54
+20,powelltammy,@p&oMQS_4(9XObb#,9035 White Cove Apt. 867,Lake Samanthatown,[],"[56, 78, 16, 25, 46]",55.77
+21,jose35,_S@cUokY7peJA9@Eh,46895 Adams Row Apt. 130,Laurenbury,[],"[56, 7, 66, 18, 12]",28.93
+22,tbaker,PI$Z2ONy+#x&,778 Robert Walks,South Brendaburgh,[],"[39, 26, 87, 95, 19]",35.78
+23,hernandezjennifer,rfm5hcoSQ_umS,487 Garza Course,Stephaniefort,[],"[14, 30, 70, 92, 64]",28.64
+24,matthew49,5U7+8BHzs1iME(4p,16920 Joshua Estate Suite 430,West Joannaberg,[],"[60, 24, 96, 9, 35]",26.76
+25,smithmichael,!5E!e4*6RjeTLLV,1584 Mark Brooks Suite 273,Whiteville,[],"[89, 34, 27, 42, 16]",55.21
+26,fyoung,w+KdZDOt^0sl0a,12518 Pamela Harbor,Zacharyhaven,[],"[51, 83, 35, 88, 52]",28.45
+27,jhaney,t*@v6lWmS,94909 Ford Views Apt. 528,Robinchester,[],"[32, 80, 52, 29, 98]",30.54
+28,samantha12,%5Teq&o_,1844 Donna Divide Suite 350,Rogershaven,[],"[43, 23, 68, 9, 91]",84.41
+29,beckrita,(2vv)_Br!h3XJoo,7909 Jessica Run Apt. 100,Stephaniefort,[],"[27, 44, 15, 11, 34]",18.05
+30,heather91,ATWCNcWv$9*,8654 Edwards Forks,Blackburnshire,[],"[100, 89, 79, 28, 75]",9.34
+31,susanbradley,)!mJzBBbuy58E1o,399 Howell Garden,Huffmanland,[],"[23, 16, 36, 9, 70]",23.26
+32,shelly22,$)8fHEgiE,860 Weaver Mountains,Williamstown,[],"[47, 100, 46, 75, 10]",65.68
+33,katherine52,(0uTtFsy,3291 Burton Mount,Davidfort,[],"[1, 81, 56, 43, 34]",62.13
+34,petersonrebecca,(O1Jq_zm,354 Graham Crescent Suite 993,Jamesmouth,[],"[32, 77, 23, 83, 47]",5.78
+35,erodriguez,W4fZCeAH*,5529 Gary Mountains,Lake Ian,[],"[19, 25, 17, 21, 45]",59.39
+36,dale65,o*9z0TZs,6284 David Run,Lake Victoriabury,[],"[45, 7, 88, 21, 24]",59.39
+37,smithanna,EG!2KCoT,76108 Kathleen Trail Apt. 301,East Danielberg,[],"[79, 11, 32, 96, 74]",57.33
+38,haydenrichardson,A)Uk^@WqP0cg$0T*,241 Stevens Lake Apt. 375,West Joannaberg,[],"[35, 72, 98, 82, 85]",45.05
+39,shannoncobb,1@25Lcpg+,78300 Jeffrey Street,North Karaton,[],"[15, 80, 48, 26, 67]",60.55
+40,thomasstacey,%4nEdSd1,722 Leblanc Port Apt. 760,Williamsville,[],"[10, 40, 67, 73, 47]",3.21
+41,christinamunoz,)o+VZFUsgA9gdVkh,886 Smith Cape Suite 430,Warnerbury,[],"[9, 76, 25, 70, 46]",54.45
+42,munozmichael,&FJYmAAM$9#0Kv^u,36391 Powell Lock Suite 992,South Patrickfurt,[],"[72, 97, 8, 11, 100]",10.26
+43,olsonrobert,V_P12!Ke4,045 Valdez Pines,Lake Danielview,[],"[8, 99, 64, 40, 20]",23.5
+44,tjohnson,*tdnFmImn9T,44400 Johnson Cape,Jenniferview,[],"[80, 76, 83, 29, 97]",20.12
+45,millerkrystal,(9dcg(nJCqO%,231 Parsons Trace Apt. 935,Heatherborough,[],"[22, 84, 99, 81, 80]",93.61
+46,morrismichelle,mZ8pwkZn@8G^Iy77),13104 Yvonne Roads,Reevesmouth,[],"[86, 38, 95, 84, 39]",99.93
+47,billypeters,k7XQBV7z_,4265 Andrea Drive,Stephaniefort,[],"[13, 75, 57, 18, 70]",19.9
+48,kelly37,J0Xygw9S*Q,09546 Michael Haven,Port Heathermouth,[],"[50, 5, 11, 43, 56]",14.2
+49,crystalguzman,cK2FY6nYd#,591 Gary Run Suite 427,Port Conniechester,[],"[32, 73, 5, 77, 57]",46.21
+50,test,teeeeeeeeeest!,591 Gary Run Suite 427,Port Conniechester,[],"[32, 73, 5, 77, 57]",46.21
+51,t,t,perikleous 5,lamia,[],"[34,21,54,64,12,96]",56.5

@@ -1,0 +1,6 @@
+id,title,author,publisher,categories,cost,shipping_cost,availability,copies,bookstores
+100,Test3.,Caey Mcgee,Sexton Group,"['Even', 'Teacher']",8.37,3.32,True,5,"{'bookstore1': 6, 'bookstore2': 9, 'bookstore3': 9, 'bookstore4': 2, 'bookstore5': 5, 'bookstore6': 5, 'bookstore7': 7, 'bookstore8': 5, 'bookstore9': 4, 'bookstore10': 7}"
+101,Test5.,Caey Mcgee,Sexton Group,"['Even', 'Teacher']",8.37,3.32,False,5,"{'bookstore4': 5, 'bookstore5': 8, 'bookstore6': 7}"
+102,Test120.,Caey Mcgee,Sexton Group,"['Even', 'Teacher']",8.37,4.04,True,5,"{'bookstore10': 5, 'bookstore5': 9, 'bookstore8': 6}"
+103,Test13.,Caey Mcgee,Sexton Group,"['Even', 'Teacher']",8.37,3.32,False,5,"{'bookstore10': 5, 'bookstore5': 9, 'bookstore8': 6}"
+104,Test11.,Caey Mcgee,Sexton Group,"['Even', 'Teacher']",8.37,3.32,False,5,"{'bookstore10': 5, 'bookstore5': 9, 'bookstore8': 6}"
