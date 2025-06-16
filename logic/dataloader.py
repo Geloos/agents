@@ -2,9 +2,9 @@ import pandas as pd
 import ast
 
 def load_data():
-    user_df = pd.read_csv("user_data.csv")
-    admin_df = pd.read_csv("admin_data.csv")
-    books_df = pd.read_csv("book_data.csv")
+    user_df = pd.read_csv("../csvs/user_data.csv")
+    admin_df = pd.read_csv("../csvs/admin_data.csv")
+    books_df = pd.read_csv("../csvs/book_data.csv")
     
     user_df['orders'] = user_df['orders'].apply(ast.literal_eval)
     user_df['favorites'] = user_df['favorites'].apply(ast.literal_eval)
