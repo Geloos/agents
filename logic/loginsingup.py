@@ -2,7 +2,7 @@ import pandas as pd
 import getpass
 
 def admin_login(admin_df):
-    """Είσοδος διαχειριστή με έλεγχο ταυτοποίησης και μέγιστο 3 προσπάθειες."""
+    
     attempts = 0
     while attempts < 3:
         username = input("Name: ")
